@@ -2,5 +2,5 @@
 Initial commit
 Second Commit
 # Added website pages to Repo
-Here is the file in the website
+Here is the file in website
 1. index.html
