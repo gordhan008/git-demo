@@ -1,2 +1,2 @@
 *.log
-/web/*
+/web/*.class
